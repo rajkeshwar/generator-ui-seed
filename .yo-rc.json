@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Rajkeshwar Prasad",
+      "authorEmail": "rajkeshwar.pd@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
